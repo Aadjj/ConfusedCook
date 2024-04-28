@@ -1,4 +1,4 @@
-# confusedcook
+# ConfusedCook
 
 A Flutter project.
 
